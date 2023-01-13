@@ -1,0 +1,8 @@
+{
+  "label": "Streaming Software Setup",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Select your streaming software:"
+  }
+}
