@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Welcome to the peepoDocs',
+  title: 'peepoDocs',
   url: 'https://peepostream.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -34,8 +34,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          sidebarCollapsible: false,
         },
         blog: {
           showReadingTime: true,
@@ -61,11 +60,11 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: '/main',
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'updates', position: 'left'},
           {
             href: 'https://peepostream.com/',
             label: 'peepoStream',
@@ -77,11 +76,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Doc Categories',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Account',
+                to: '/docs/account',
+              },
+              {
+                label: 'Software Setup',
+                to: '/docs/setup',
+              },
+              {
+                label: 'Rewards',
+                to: '/docs/rewards',
               },
             ],
           },
@@ -94,7 +101,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/peepoStream',
               },
             ],
           },
@@ -102,8 +109,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'peepoStream',
+                href: 'https://peepostream.com/',
+              },
+              {
+                label: 'Status Page',
+                href: 'https://peepostream.instatus.com/',
               },
             ],
           },
