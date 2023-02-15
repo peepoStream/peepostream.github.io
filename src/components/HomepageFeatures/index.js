@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Live Support',
+    Svg: require('@site/static/img/discord-mark-blue.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+       Have any questions the documentation can't solve? Reach out to us on <a href='https://discord.gg/peepostream'>Discord</a>!
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Give your chat a voice',
+    Svg: require('@site/static/img/undraw_typing_re_d4sq.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        With TTS rewards, commands, and even sending all chat messages through text to speech, peepoStream helps streamers interact with their chat even when they're too busy to read.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Works with the tools you already use',
+    Svg: require('@site/static/img/TwitchGlitchPurple.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Built from the ground up for Twitch, we work well with all your existing tools to level up your streaming experience.
       </>
     ),
   },
