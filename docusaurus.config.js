@@ -12,6 +12,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+  tagline:
+    '',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -121,6 +123,11 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} peepoStream. Built with Docusaurus.`,
       },
+        colorMode: {
+          defaultMode: 'dark',
+          disableSwitch: false,
+          respectPrefersColorScheme: false,
+        },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,

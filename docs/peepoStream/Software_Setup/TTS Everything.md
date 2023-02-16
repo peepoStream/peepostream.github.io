@@ -4,7 +4,7 @@ slug: /setup/ttse
 description: Placeholder
 ---
 
-# Browser Source
+# TTSE
 
 ## Adding the Browser Source
 
