@@ -3,7 +3,7 @@
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Select the software you would like to setup:",
+    "description": "There are two browser sources peepoStream uses, depending on your TTS type",
     "slug":"/setup"
   }
 }

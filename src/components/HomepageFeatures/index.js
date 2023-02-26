@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/TwitchGlitchPurple.svg').default,
     description: (
       <>
-        Built from the ground up for Twitch, we work well with all your existing tools to level up your streaming experience.
+        Built from the ground up for Twitch, we work with all your existing tools to level up your streaming experience.
       </>
     ),
   },

@@ -1,22 +1,24 @@
 ---
 sidebar_position: 2
-slug: /setup/streamlabs
-description: Setting up peepoStream in Streamlabs Desktop
+slug: /setup/dock/streamlabs
+description: Setting up the Dock in Streamlabs Desktop
 ---
 
-# Streamlabs
+# Streamlabs Dock
 
-To add a dock to Streamlabs, you will need to add peepoStream as a website source in the "Layout Editor".
+### Video Walkthrough
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vJrVP-57zJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Open the Layout Editor
 
 Expand the Streamlabs desktop sidebar and select Editor > Layout Editor  
-![fe](https://cdn.discordapp.com/attachments/1036846058325680148/1068085236308660254/image.png)
+![Layout Editor location in sidebar dropdown](@site/static/img/Layout_Editor_Streamlabs.png)
 
 ### Adding the Website Element
 
 Drag the "Website" element into the desired location. You may need to change the layout preset or remove an existing element if there is not enough room for it.  
- ![fe](https://cdn.discordapp.com/attachments/1052040172407107625/1052040173338247168/image.png)
+ ![Dragging the Website Element into an open space in Streamlabs Desktop](@site/static/img/Website_Element_Streamlabs.png)
 
 ### Set the Target URL
 

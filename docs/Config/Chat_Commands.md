@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-slug: /rewards/commands
+slug: /config/commands
 description: Use chat commands to control peepo live
 ---
 
@@ -42,7 +42,7 @@ This will pause TTS redemptions while still allowing the reward to be redeemed. 
 
 ### TTS Play
 
-This will resume the TTS player if it is paused.
+This will resume the TTS player if paused.
 
 ```text
 !tts play
@@ -67,6 +67,7 @@ Sets the volume of the TTS Everything player. Value can be set from 1 -> 100.
 ```
 
 
+
 ### TTSE On
 
 Turns on TTS everything.
@@ -82,3 +83,4 @@ Turns off TTS everything.
 ```text
 !ttse off
 ```
+

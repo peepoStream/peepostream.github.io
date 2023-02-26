@@ -36,7 +36,8 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          sidebarCollapsible: false,
+          sidebarCollapsible: true,
+          routeBasePath: '/',
         },
         blog: {
           showReadingTime: true,
@@ -60,12 +61,7 @@ const config = {
           src: 'https://cdn.7tv.app/emote/60ef410f48cde2fcc3eb5caa/1x.webp',
         },
         items: [
-          {
-            type: 'doc',
-            docId: '/main',
-            position: 'left',
-            label: 'Docs',
-          },
+          
           // {to: '/blog', label: 'updates', position: 'left'},
           {
             href: 'https://peepostream.com/',
