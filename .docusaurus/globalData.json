@@ -1,0 +1,143 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "home",
+          "docs": [
+            {
+              "id": "Account/Billing",
+              "path": "/account/billing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Account/Permissions",
+              "path": "/account/permissions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Config/400",
+              "path": "/Twitch400",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Config/Automod",
+              "path": "/config/moderation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Config/Chat_Commands",
+              "path": "/config/commands",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "home",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Rewards/Creating_Reward",
+              "path": "/rewards/create",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Rewards/Mod_Actions",
+              "path": "/rewards/actions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Rewards/TTS_Rewards",
+              "path": "/rewards/tts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Software_Setup/Software-Redemptions/Adding_Browser_Source",
+              "path": "/setup/dock/browser-source",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Software_Setup/Software-Redemptions/OBS_Setup",
+              "path": "/setup/dock/obs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Software_Setup/Software-Redemptions/Other_Stream_Software",
+              "path": "/setup/dock/other",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Software_Setup/Software-Redemptions/Streamlabs_Desktop_Setup",
+              "path": "/setup/dock/streamlabs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Software_Setup/Software-TTS/Chat_Featues_Setup",
+              "path": "/setup/chat/setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Software_Setup/Software-TTS/TTS_Command",
+              "path": "/setup/chat/command",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Software_Setup/Software-TTS/TTS_Everything",
+              "path": "/setup/chat/TTSE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Software_Setup/Streamdeck_Setup",
+              "path": "/setup/streamdeck",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/account",
+              "path": "/account",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/setup",
+              "path": "/setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/setup/dock",
+              "path": "/setup/dock",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/setup/chat",
+              "path": "/setup/chat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/rewards",
+              "path": "/rewards",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/config",
+              "path": "/config",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "home"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

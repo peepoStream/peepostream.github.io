@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Software_Setup/Software-Redemptions/OBS_Setup",
+  "id": "Software_Setup/Software-Redemptions/OBS_Setup",
+  "title": "OBS Dock",
+  "description": "Setting up the Dock in OBS Studio",
+  "source": "@site/docs/Software_Setup/Software-Redemptions/OBS_Setup.md",
+  "sourceDirName": "Software_Setup/Software-Redemptions",
+  "slug": "/setup/dock/obs",
+  "permalink": "/setup/dock/obs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/setup/dock/obs",
+    "description": "Setting up the Dock in OBS Studio"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reward Source",
+    "permalink": "/setup/dock"
+  },
+  "next": {
+    "title": "Streamlabs Dock",
+    "permalink": "/setup/dock/streamlabs"
+  }
+}

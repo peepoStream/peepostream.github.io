@@ -1,0 +1,16 @@
+{
+  "title": "Software Setup",
+  "description": "There are two browser sources peepoStream uses, depending on your TTS type",
+  "slug": "/setup",
+  "permalink": "/setup",
+  "navigation": {
+    "previous": {
+      "title": "Permissions",
+      "permalink": "/account/permissions"
+    },
+    "next": {
+      "title": "Reward Source",
+      "permalink": "/setup/dock"
+    }
+  }
+}

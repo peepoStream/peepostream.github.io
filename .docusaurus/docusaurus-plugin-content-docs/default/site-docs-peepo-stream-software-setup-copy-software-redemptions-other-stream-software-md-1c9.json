@@ -1,0 +1,28 @@
+{
+  "unversionedId": "peepoStream/Software_Setup copy/Software-Redemptions/Other_Stream_Software",
+  "id": "peepoStream/Software_Setup copy/Software-Redemptions/Other_Stream_Software",
+  "title": "Other Software",
+  "description": "Use only if your software doesn't support the dock or browser source",
+  "source": "@site/docs/peepoStream/Software_Setup copy/Software-Redemptions/Other_Stream_Software.md",
+  "sourceDirName": "peepoStream/Software_Setup copy/Software-Redemptions",
+  "slug": "/setup/other",
+  "permalink": "/docs/setup/other",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "slug": "/setup/other",
+    "description": "Use only if your software doesn't support the dock or browser source"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Browser Source",
+    "permalink": "/docs/setup/browser-source"
+  },
+  "next": {
+    "title": "Chat Features",
+    "permalink": "/docs/setup/chat"
+  }
+}

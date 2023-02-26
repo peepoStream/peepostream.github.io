@@ -1,0 +1,22 @@
+{
+  "unversionedId": "markdown-page",
+  "id": "markdown-page",
+  "title": "peepoStream",
+  "description": "You don't need React to write simple standalone pages.",
+  "source": "@site/docs/markdown-page.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "peepoStream",
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Moderating Rewards",
+    "permalink": "/rewards/moderation"
+  }
+}

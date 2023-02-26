@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Account/Billing",
+  "id": "Account/Billing",
+  "title": "Billing",
+  "description": "Billing information, plans, and managing your subscription",
+  "source": "@site/docs/Account/Billing.md",
+  "sourceDirName": "Account",
+  "slug": "/account/billing",
+  "permalink": "/account/billing",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/account/billing",
+    "description": "Billing information, plans, and managing your subscription"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Account",
+    "permalink": "/account"
+  },
+  "next": {
+    "title": "Permissions",
+    "permalink": "/account/permissions"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Miscellaneous",
+  "description": "Other Software that works with peepoStream.",
+  "slug": "/setup/misc",
+  "permalink": "/setup/misc",
+  "navigation": {
+    "previous": {
+      "title": "Other Software",
+      "permalink": "/setup/dock/other"
+    },
+    "next": {
+      "title": "Stream Deck",
+      "permalink": "/setup/streamdeck"
+    }
+  }
+}

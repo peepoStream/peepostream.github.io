@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Software_Setup/Software-Redemptions/Chat_Featues_Setup",
+  "id": "Software_Setup/Software-Redemptions/Chat_Featues_Setup",
+  "title": "OBS",
+  "description": "Setting up peepoStream in OBS Studio",
+  "source": "@site/docs/Software_Setup/Software-Redemptions/Chat_Featues_Setup.md",
+  "sourceDirName": "Software_Setup/Software-Redemptions",
+  "slug": "/setup/dock/obs",
+  "permalink": "/setup/dock/obs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/setup/dock/obs",
+    "description": "Setting up peepoStream in OBS Studio"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dock Setup",
+    "permalink": "/setup/dock"
+  },
+  "next": {
+    "title": "OBS",
+    "permalink": "/setup/dock/obs"
+  }
+}

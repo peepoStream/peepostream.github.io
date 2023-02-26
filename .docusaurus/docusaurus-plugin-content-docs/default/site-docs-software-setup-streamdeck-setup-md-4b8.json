@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Software_Setup/Streamdeck_Setup",
+  "id": "Software_Setup/Streamdeck_Setup",
+  "title": "Stream Deck",
+  "description": "Control peepoStream by sending chat commands with a keypress",
+  "source": "@site/docs/Software_Setup/Streamdeck_Setup.md",
+  "sourceDirName": "Software_Setup",
+  "slug": "/setup/streamdeck",
+  "permalink": "/setup/streamdeck",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "slug": "/setup/streamdeck",
+    "description": "Control peepoStream by sending chat commands with a keypress"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TTS Everything",
+    "permalink": "/setup/chat/TTSE"
+  },
+  "next": {
+    "title": "Rewards",
+    "permalink": "/rewards"
+  }
+}

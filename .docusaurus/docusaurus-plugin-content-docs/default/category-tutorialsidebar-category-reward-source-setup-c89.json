@@ -1,0 +1,16 @@
+{
+  "title": "Reward Source Setup",
+  "description": "Setup instructions for Channel Point controlled TTS and actions.",
+  "slug": "/setup/dock",
+  "permalink": "/setup/dock",
+  "navigation": {
+    "previous": {
+      "title": "Software Setup",
+      "permalink": "/setup"
+    },
+    "next": {
+      "title": "OBS",
+      "permalink": "/setup/dock/obs"
+    }
+  }
+}

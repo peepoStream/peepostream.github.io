@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Software_Setup/Software-TTS/Chat_Featues_Setup",
+  "id": "Software_Setup/Software-TTS/Chat_Featues_Setup",
+  "title": "Chat Features Setup",
+  "description": "Setting up the chat features browser source",
+  "source": "@site/docs/Software_Setup/Software-TTS/Chat_Featues_Setup.md",
+  "sourceDirName": "Software_Setup/Software-TTS",
+  "slug": "/setup/chat/setup",
+  "permalink": "/setup/chat/setup",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/setup/chat/setup",
+    "description": "Setting up the chat features browser source"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chat Features",
+    "permalink": "/setup/chat"
+  },
+  "next": {
+    "title": "TTS Command",
+    "permalink": "/setup/chat/command"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Rewards/Creating_Reward",
+  "id": "Rewards/Creating_Reward",
+  "title": "Creating a Reward",
+  "description": "Setting up rewards in peepoStream",
+  "source": "@site/docs/Rewards/Creating_Reward.md",
+  "sourceDirName": "Rewards",
+  "slug": "/rewards/create",
+  "permalink": "/rewards/create",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/rewards/create",
+    "description": "Setting up rewards in peepoStream"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rewards",
+    "permalink": "/rewards"
+  },
+  "next": {
+    "title": "TTS Rewards",
+    "permalink": "/rewards/tts"
+  }
+}

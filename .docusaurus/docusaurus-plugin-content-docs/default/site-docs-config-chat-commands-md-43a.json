@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Config/Chat_Commands",
+  "id": "Config/Chat_Commands",
+  "title": "Chat Commands",
+  "description": "Use chat commands to control peepo live",
+  "source": "@site/docs/Config/Chat_Commands.md",
+  "sourceDirName": "Config",
+  "slug": "/config/commands",
+  "permalink": "/config/commands",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "slug": "/config/commands",
+    "description": "Use chat commands to control peepo live"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Moderation",
+    "permalink": "/config/moderation"
+  },
+  "next": {
+    "title": "Twitch Error 400",
+    "permalink": "/Twitch400"
+  }
+}

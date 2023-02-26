@@ -1,0 +1,24 @@
+{
+  "unversionedId": "400",
+  "id": "400",
+  "title": "Twitch Error 400",
+  "description": "This is a Twitch error, meaning something on their end is blocking the request. The two primary causes of this are:",
+  "source": "@site/docs/400.md",
+  "sourceDirName": ".",
+  "slug": "/Twitch400",
+  "permalink": "/Twitch400",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Twitch Error 400",
+    "slug": "/Twitch400",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mod Actions",
+    "permalink": "/rewards/actions"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "home",
+  "id": "home",
+  "title": "peepoDocs Intro",
+  "description": "Your one-stop shop for all things peepoStream!",
+  "source": "@site/docs/home.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "peepoDocs Intro",
+    "slug": "/",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Account",
+    "permalink": "/account"
+  }
+}

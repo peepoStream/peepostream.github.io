@@ -1,0 +1,16 @@
+{
+  "title": "Miscellaneous Software",
+  "description": "Other Software that works with peepoStream.",
+  "slug": "/setup/misc",
+  "permalink": "/docs/setup/misc",
+  "navigation": {
+    "previous": {
+      "title": "TTS Everything",
+      "permalink": "/docs/setup/ttse"
+    },
+    "next": {
+      "title": "Chat Commands",
+      "permalink": "/docs/rewards/commands"
+    }
+  }
+}

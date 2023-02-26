@@ -1,0 +1,16 @@
+{
+  "title": "Point Redemptions",
+  "description": "Setup instructions for Channel Point controlled TTS and actions.",
+  "slug": "/setup/redemptions",
+  "permalink": "/docs/setup/redemptions",
+  "navigation": {
+    "previous": {
+      "title": "Software Setup",
+      "permalink": "/docs/setup"
+    },
+    "next": {
+      "title": "OBS",
+      "permalink": "/docs/setup/obs"
+    }
+  }
+}

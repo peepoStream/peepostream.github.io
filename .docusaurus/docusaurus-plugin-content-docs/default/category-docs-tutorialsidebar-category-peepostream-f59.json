@@ -1,0 +1,15 @@
+{
+  "title": "peepoStream",
+  "slug": "/",
+  "permalink": "/docs/",
+  "navigation": {
+    "previous": {
+      "title": "Permissions",
+      "permalink": "/docs/account/permissions"
+    },
+    "next": {
+      "title": "Software Setup",
+      "permalink": "/docs/setup"
+    }
+  }
+}

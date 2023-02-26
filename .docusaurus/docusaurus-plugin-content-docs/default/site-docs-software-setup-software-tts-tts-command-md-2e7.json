@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Software_Setup/Software-TTS/TTS_Command",
+  "id": "Software_Setup/Software-TTS/TTS_Command",
+  "title": "TTS Command",
+  "description": "Setting up a TTS Command in chat",
+  "source": "@site/docs/Software_Setup/Software-TTS/TTS_Command.md",
+  "sourceDirName": "Software_Setup/Software-TTS",
+  "slug": "/setup/chat/command",
+  "permalink": "/setup/chat/command",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/setup/chat/command",
+    "description": "Setting up a TTS Command in chat"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chat Features Setup",
+    "permalink": "/setup/chat/setup"
+  },
+  "next": {
+    "title": "TTS Everything",
+    "permalink": "/setup/chat/TTSE"
+  }
+}

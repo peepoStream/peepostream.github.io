@@ -1,0 +1,28 @@
+{
+  "unversionedId": "peepoStream/Account/Permissions",
+  "id": "peepoStream/Account/Permissions",
+  "title": "Permissions",
+  "description": "Understanding why peepo requires its Twitch permissions",
+  "source": "@site/docs/peepoStream/Account/Permissions.md",
+  "sourceDirName": "peepoStream/Account",
+  "slug": "/account/permissions",
+  "permalink": "/docs/account/permissions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "slug": "/account/permissions",
+    "description": "Understanding why peepo requires its Twitch permissions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Billing",
+    "permalink": "/docs/account/billing"
+  },
+  "next": {
+    "title": "Software Setup",
+    "permalink": "/docs/setup"
+  }
+}

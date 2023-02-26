@@ -1,0 +1,15 @@
+{
+  "title": "Config",
+  "slug": "/config",
+  "permalink": "/config",
+  "navigation": {
+    "previous": {
+      "title": "Mod Actions",
+      "permalink": "/rewards/actions"
+    },
+    "next": {
+      "title": "Moderation",
+      "permalink": "/config/moderation"
+    }
+  }
+}
