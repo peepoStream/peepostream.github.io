@@ -32,7 +32,7 @@ There are three methods to control the audio levels while using a browser source
 
 ### Chat Commands
 
-The easiest way to control your TTS is through chat commands. These allow you to adjust the dock settings from your stream chat. These [Chat Commands](/docs/rewards/commands) will enable you to perform all the docks functions. When combined with a [Stream Deck](/docs/setup/streamdeck) you can control peepoStream with a single button!
+The easiest way to control your TTS is through chat commands. These allow you to adjust the dock settings from your stream chat. These [Chat Commands](/rewards/commands) will enable you to perform all the docks functions. When combined with a [Stream Deck](/setup/streamdeck) you can control peepoStream with a single button!
 
 ### Interacting with the Source
 
