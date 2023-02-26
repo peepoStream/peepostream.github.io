@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpeepostream_github_io=self.webpackChunkpeepostream_github_io||[]).push([[5738],{8453:e=>{e.exports=JSON.parse('{"title":"Rewards","slug":"/rewards","permalink":"/docs/rewards","navigation":{"previous":{"title":"Other Software","permalink":"/docs/setup/other"},"next":{"title":"Creating a Reward","permalink":"/docs/rewards/create"}}}')}}]);
