@@ -78,15 +78,15 @@ const config = {
             items: [
               {
                 label: 'Account',
-                to: '/docs/account',
+                to: '/account',
               },
               {
                 label: 'Software Setup',
-                to: '/docs/setup',
+                to: '/setup',
               },
               {
                 label: 'Rewards',
-                to: '/docs/rewards',
+                to: '/rewards',
               },
             ],
           },
