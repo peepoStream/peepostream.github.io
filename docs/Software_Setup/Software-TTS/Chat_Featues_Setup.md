@@ -33,7 +33,7 @@ There are two methods to control the audio levels while using TTS everything, li
 
 ### Chat Commands
 
-The easiest way to control your TTS is through chat commands. These allow you to adjust settings from your stream chat. These [Chat Commands](/docs/rewards/commands/#tts-everything) will enable you to perform all the docks functions. When combined with a [Stream Deck](/docs/setup/streamdeck) you can control peepoStream with a single button!
+The easiest way to control your TTS is through chat commands. These allow you to adjust settings from your stream chat. These [Chat Commands](/rewards/commands/#tts-everything) will enable you to perform all the docks functions. When combined with a [Stream Deck](/setup/streamdeck) you can control peepoStream with a single button!
 
 ### Controlling via Streaming Software
 
