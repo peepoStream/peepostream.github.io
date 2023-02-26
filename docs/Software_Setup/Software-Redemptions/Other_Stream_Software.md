@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-slug: /setup/other
+slug: /setup/dock/other
 description: Use only if your software doesn't support the dock or browser source
 ---
 

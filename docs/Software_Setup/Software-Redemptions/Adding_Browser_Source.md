@@ -1,10 +1,10 @@
 ---
 sidebar_position: 3
-slug: /setup/ttse
-description: Placeholder
+slug: /setup/dock/browser-source
+description: Using peepoStream as a browser source
 ---
 
-# TTSE
+# Browser Source
 
 ## Adding the Browser Source
 
