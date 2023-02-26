@@ -1,0 +1,24 @@
+{
+  "unversionedId": "peepoStream/Rewards/Automod",
+  "id": "peepoStream/Rewards/Automod",
+  "title": "Moderating Rewards",
+  "description": "Keeping your TTS clean",
+  "source": "@site/docs/peepoStream/Rewards/Automod.md",
+  "sourceDirName": "peepoStream/Rewards",
+  "slug": "/rewards/moderation",
+  "permalink": "/docs/rewards/moderation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "slug": "/rewards/moderation",
+    "description": "Keeping your TTS clean"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mod Actions",
+    "permalink": "/docs/rewards/actions"
+  }
+}

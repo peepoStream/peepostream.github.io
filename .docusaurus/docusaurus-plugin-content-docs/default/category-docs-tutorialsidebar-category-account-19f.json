@@ -1,0 +1,12 @@
+{
+  "title": "Account",
+  "description": "Select your streaming software:",
+  "slug": "/account",
+  "permalink": "/docs/account",
+  "navigation": {
+    "next": {
+      "title": "Billing",
+      "permalink": "/docs/account/billing"
+    }
+  }
+}

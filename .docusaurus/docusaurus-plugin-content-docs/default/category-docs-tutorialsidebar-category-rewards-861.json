@@ -1,0 +1,15 @@
+{
+  "title": "Rewards",
+  "slug": "/rewards",
+  "permalink": "/docs/rewards",
+  "navigation": {
+    "previous": {
+      "title": "Stream Deck",
+      "permalink": "/docs/setup/streamdeck"
+    },
+    "next": {
+      "title": "Creating a Reward",
+      "permalink": "/docs/rewards/create"
+    }
+  }
+}

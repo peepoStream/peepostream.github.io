@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Software_Setup/Software-Redemptions/Streamlabs_Desktop_Setup",
+  "id": "Software_Setup/Software-Redemptions/Streamlabs_Desktop_Setup",
+  "title": "Streamlabs Dock",
+  "description": "Setting up the Dock in Streamlabs Desktop",
+  "source": "@site/docs/Software_Setup/Software-Redemptions/Streamlabs_Desktop_Setup.md",
+  "sourceDirName": "Software_Setup/Software-Redemptions",
+  "slug": "/setup/dock/streamlabs",
+  "permalink": "/setup/dock/streamlabs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "slug": "/setup/dock/streamlabs",
+    "description": "Setting up the Dock in Streamlabs Desktop"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OBS Dock",
+    "permalink": "/setup/dock/obs"
+  },
+  "next": {
+    "title": "Browser Source",
+    "permalink": "/setup/dock/browser-source"
+  }
+}

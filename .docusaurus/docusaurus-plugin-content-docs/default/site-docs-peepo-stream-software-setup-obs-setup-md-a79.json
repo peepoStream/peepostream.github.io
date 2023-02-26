@@ -1,0 +1,28 @@
+{
+  "unversionedId": "peepoStream/Software_Setup/OBS_Setup",
+  "id": "peepoStream/Software_Setup/OBS_Setup",
+  "title": "OBS",
+  "description": "Setting up peepoStream in OBS Studio",
+  "source": "@site/docs/peepoStream/Software_Setup/OBS_Setup.md",
+  "sourceDirName": "peepoStream/Software_Setup",
+  "slug": "/setup/obs",
+  "permalink": "/docs/setup/obs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/setup/obs",
+    "description": "Setting up peepoStream in OBS Studio"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Software Setup",
+    "permalink": "/docs/setup"
+  },
+  "next": {
+    "title": "Redemption Software Setup",
+    "permalink": "/docs/setup"
+  }
+}

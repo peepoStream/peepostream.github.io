@@ -1,0 +1,28 @@
+{
+  "unversionedId": "peepoStream/Software_Setup/TTS_Command",
+  "id": "peepoStream/Software_Setup/TTS_Command",
+  "title": "OBS",
+  "description": "Setting up a TTS Command in chat",
+  "source": "@site/docs/peepoStream/Software_Setup/TTS_Command.md",
+  "sourceDirName": "peepoStream/Software_Setup",
+  "slug": "/setup/command",
+  "permalink": "/docs/setup/command",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/setup/command",
+    "description": "Setting up a TTS Command in chat"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Other Software",
+    "permalink": "/docs/setup/other"
+  },
+  "next": {
+    "title": "TTS Everything",
+    "permalink": "/docs/setup/ttse"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "peepoStream/Software_Setup/Adding_Browser_Source",
+  "id": "peepoStream/Software_Setup/Adding_Browser_Source",
+  "title": "Browser Source",
+  "description": "Using peepoStream as a browser source",
+  "source": "@site/docs/peepoStream/Software_Setup/Adding_Browser_Source.md",
+  "sourceDirName": "peepoStream/Software_Setup",
+  "slug": "/setup/browser-source",
+  "permalink": "/docs/setup/browser-source",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "slug": "/setup/browser-source",
+    "description": "Using peepoStream as a browser source"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Streamlabs",
+    "permalink": "/docs/setup/streamlabs"
+  },
+  "next": {
+    "title": "TTS Everything",
+    "permalink": "/docs/setup/ttse"
+  }
+}

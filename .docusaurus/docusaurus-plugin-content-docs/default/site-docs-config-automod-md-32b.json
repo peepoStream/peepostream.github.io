@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Config/Automod",
+  "id": "Config/Automod",
+  "title": "Moderation",
+  "description": "Keeping your TTS clean through AutoMod",
+  "source": "@site/docs/Config/Automod.md",
+  "sourceDirName": "Config",
+  "slug": "/config/moderation",
+  "permalink": "/config/moderation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "slug": "/config/moderation",
+    "description": "Keeping your TTS clean through AutoMod"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Config",
+    "permalink": "/config"
+  },
+  "next": {
+    "title": "Chat Commands",
+    "permalink": "/config/commands"
+  }
+}

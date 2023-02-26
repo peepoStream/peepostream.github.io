@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Software_Setup/Software-Redemptions/Other_Stream_Software",
+  "id": "Software_Setup/Software-Redemptions/Other_Stream_Software",
+  "title": "Other Software",
+  "description": "Use only if your software doesn't support the dock or browser source",
+  "source": "@site/docs/Software_Setup/Software-Redemptions/Other_Stream_Software.md",
+  "sourceDirName": "Software_Setup/Software-Redemptions",
+  "slug": "/setup/dock/other",
+  "permalink": "/setup/dock/other",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "slug": "/setup/dock/other",
+    "description": "Use only if your software doesn't support the dock or browser source"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Browser Source",
+    "permalink": "/setup/dock/browser-source"
+  },
+  "next": {
+    "title": "Chat Features",
+    "permalink": "/setup/chat"
+  }
+}

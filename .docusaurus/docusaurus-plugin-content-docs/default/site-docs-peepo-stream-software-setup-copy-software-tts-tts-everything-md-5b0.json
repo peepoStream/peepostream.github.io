@@ -1,0 +1,28 @@
+{
+  "unversionedId": "peepoStream/Software_Setup copy/Software-TTS/TTS Everything",
+  "id": "peepoStream/Software_Setup copy/Software-TTS/TTS Everything",
+  "title": "TTS Everything",
+  "description": "Setting Up TTS Everything",
+  "source": "@site/docs/peepoStream/Software_Setup copy/Software-TTS/TTS Everything.md",
+  "sourceDirName": "peepoStream/Software_Setup copy/Software-TTS",
+  "slug": "/setup/ttse",
+  "permalink": "/docs/setup/ttse",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "slug": "/setup/ttse",
+    "description": "Setting Up TTS Everything"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TTS Command",
+    "permalink": "/docs/setup/command"
+  },
+  "next": {
+    "title": "Miscellaneous",
+    "permalink": "/docs/setup/misc"
+  }
+}

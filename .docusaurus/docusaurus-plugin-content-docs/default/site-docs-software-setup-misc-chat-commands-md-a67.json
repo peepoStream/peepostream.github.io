@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Software_Setup/Misc/Chat_Commands",
+  "id": "Software_Setup/Misc/Chat_Commands",
+  "title": "Chat Commands",
+  "description": "Use chat commands to control peepo live",
+  "source": "@site/docs/Software_Setup/Misc/Chat_Commands.md",
+  "sourceDirName": "Software_Setup/Misc",
+  "slug": "/rewards/commands",
+  "permalink": "/rewards/commands",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "slug": "/rewards/commands",
+    "description": "Use chat commands to control peepo live"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Miscellaneous",
+    "permalink": "/setup/misc"
+  },
+  "next": {
+    "title": "Stream Deck",
+    "permalink": "/setup/streamdeck"
+  }
+}

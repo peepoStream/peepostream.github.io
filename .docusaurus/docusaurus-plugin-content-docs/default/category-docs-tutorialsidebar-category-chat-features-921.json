@@ -1,0 +1,16 @@
+{
+  "title": "Chat Features",
+  "description": "Select the software you would like to setup:",
+  "slug": "/setup/chat",
+  "permalink": "/docs/setup/chat",
+  "navigation": {
+    "previous": {
+      "title": "Other Software",
+      "permalink": "/docs/setup/other"
+    },
+    "next": {
+      "title": "TTS Command",
+      "permalink": "/docs/setup/command"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Rewards/TTS_Rewards",
+  "id": "Rewards/TTS_Rewards",
+  "title": "TTS Rewards",
+  "description": "Understanding the different TTS Rewards",
+  "source": "@site/docs/Rewards/TTS_Rewards.md",
+  "sourceDirName": "Rewards",
+  "slug": "/rewards/tts",
+  "permalink": "/rewards/tts",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "slug": "/rewards/tts",
+    "description": "Understanding the different TTS Rewards"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creating a Reward",
+    "permalink": "/rewards/create"
+  },
+  "next": {
+    "title": "Mod Actions",
+    "permalink": "/rewards/actions"
+  }
+}

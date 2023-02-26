@@ -1,0 +1,28 @@
+{
+  "unversionedId": "peepoStream/Rewards/TTS_Rewards",
+  "id": "peepoStream/Rewards/TTS_Rewards",
+  "title": "TTS Rewards",
+  "description": "Understanding the different TTS Rewards",
+  "source": "@site/docs/peepoStream/Rewards/TTS_Rewards.md",
+  "sourceDirName": "peepoStream/Rewards",
+  "slug": "/rewards/tts",
+  "permalink": "/docs/rewards/tts",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "slug": "/rewards/tts",
+    "description": "Understanding the different TTS Rewards"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creating a Reward",
+    "permalink": "/docs/rewards/create"
+  },
+  "next": {
+    "title": "Mod Actions",
+    "permalink": "/docs/rewards/actions"
+  }
+}

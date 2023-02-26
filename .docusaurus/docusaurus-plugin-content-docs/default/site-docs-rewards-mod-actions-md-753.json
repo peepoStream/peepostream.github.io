@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Rewards/Mod_Actions",
+  "id": "Rewards/Mod_Actions",
+  "title": "Mod Actions",
+  "description": "Understanding what each mod action does",
+  "source": "@site/docs/Rewards/Mod_Actions.md",
+  "sourceDirName": "Rewards",
+  "slug": "/rewards/actions",
+  "permalink": "/rewards/actions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "slug": "/rewards/actions",
+    "description": "Understanding what each mod action does"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TTS Rewards",
+    "permalink": "/rewards/tts"
+  },
+  "next": {
+    "title": "Config",
+    "permalink": "/config"
+  }
+}

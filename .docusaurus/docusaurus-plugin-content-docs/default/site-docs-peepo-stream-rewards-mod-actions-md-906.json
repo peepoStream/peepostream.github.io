@@ -1,0 +1,28 @@
+{
+  "unversionedId": "peepoStream/Rewards/Mod_Actions",
+  "id": "peepoStream/Rewards/Mod_Actions",
+  "title": "Mod Actions",
+  "description": "Understanding what each mod action does",
+  "source": "@site/docs/peepoStream/Rewards/Mod_Actions.md",
+  "sourceDirName": "peepoStream/Rewards",
+  "slug": "/rewards/actions",
+  "permalink": "/docs/rewards/actions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "slug": "/rewards/actions",
+    "description": "Understanding what each mod action does"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TTS Rewards",
+    "permalink": "/docs/rewards/tts"
+  },
+  "next": {
+    "title": "Moderating Rewards",
+    "permalink": "/docs/rewards/moderation"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Chat Features",
+  "description": "Select the software you would like to setup:",
+  "slug": "/setup/chat",
+  "permalink": "/setup/chat",
+  "navigation": {
+    "previous": {
+      "title": "Other Software",
+      "permalink": "/setup/dock/other"
+    },
+    "next": {
+      "title": "Chat Features Setup",
+      "permalink": "/setup/chat/setup"
+    }
+  }
+}

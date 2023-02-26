@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Rewards/Automod",
+  "id": "Rewards/Automod",
+  "title": "Moderating Rewards",
+  "description": "Keeping your TTS clean",
+  "source": "@site/docs/Rewards/Automod.md",
+  "sourceDirName": "Rewards",
+  "slug": "/rewards/moderation",
+  "permalink": "/rewards/moderation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "slug": "/rewards/moderation",
+    "description": "Keeping your TTS clean"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mod Actions",
+    "permalink": "/rewards/actions"
+  },
+  "next": {
+    "title": "Twitch Error 400",
+    "permalink": "/Twitch400"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "peepoStream/Software_Setup/Software-Redemptions/Streamlabs_Desktop_Setup",
+  "id": "peepoStream/Software_Setup/Software-Redemptions/Streamlabs_Desktop_Setup",
+  "title": "Streamlabs",
+  "description": "Setting up peepoStream in Streamlabs Desktop",
+  "source": "@site/docs/peepoStream/Software_Setup/Software-Redemptions/Streamlabs_Desktop_Setup.md",
+  "sourceDirName": "peepoStream/Software_Setup/Software-Redemptions",
+  "slug": "/setup/streamlabs",
+  "permalink": "/docs/setup/streamlabs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "slug": "/setup/streamlabs",
+    "description": "Setting up peepoStream in Streamlabs Desktop"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OBS",
+    "permalink": "/docs/setup/obs"
+  },
+  "next": {
+    "title": "Browser Source",
+    "permalink": "/docs/setup/browser-source"
+  }
+}
