@@ -6,7 +6,7 @@ description: Setting Up TTS Everything
 
 # TTS Everything
 
-For TTS Everything to start working, you will need to enable the feature on the [TTS Dashboard](https://peepostream.com/tts). From here you can also manage the voice used and wether or not the chatter's name should be read before each message. The selected voice will apply to both TTS Everything and the [TTS Chat Command](/setup/chat/command).
+For TTS Everything to start working, you will need to enable the feature on the [TTS Dashboard](https://peepostream.com/tts). From here you can also manage the voice used and wether or not the chatter's name should be read before each message. The selected voice will apply to both TTS Everything and the [TTS Chat Command](/tts/command).
 
 After this, any message sent will be read out in the selected voice
 

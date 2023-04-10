@@ -77,12 +77,12 @@ export default {
               "to": "/setup"
             },
             {
-              "label": "Extension",
-              "to": "/extension"
+              "label": "TTS",
+              "to": "/tts"
             },
             {
-              "label": "Rewards",
-              "to": "/rewards"
+              "label": "Extension",
+              "to": "/extension"
             },
             {
               "label": "Other FAQ",
