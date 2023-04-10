@@ -114,6 +114,10 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/peepoStream',
               },
+              {
+                label: 'TikTok',
+                href: 'https://www.tiktok.com/@peepostream',
+              },
             ],
           },
           {
