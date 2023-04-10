@@ -20,7 +20,7 @@ This permission is used for VIP-related mod actions.
 
 ### Manage Channel Points custom rewards and their redemptions on your channel
 
-Used to manage [Channel Point Rewards](https://dashboard.twitch.tv/viewer-rewards/channel-points/rewards) automatically when you create, edit, or delete [TTS](/tts/browser) rewards created in our dashboard.
+Used to manage [Channel Point Rewards](https://dashboard.twitch.tv/viewer-rewards/channel-points/rewards) automatically when you create, edit, or delete [TTS](/tts/create) rewards created in our dashboard.
 
 ### Get a list of all subscribers to your channel and check if a user is subscribed to your channel
 
