@@ -4,8 +4,8 @@
   "permalink": "/rewards",
   "navigation": {
     "previous": {
-      "title": "Stream Deck",
-      "permalink": "/setup/streamdeck"
+      "title": "Payouts",
+      "permalink": "/extension/payouts"
     },
     "next": {
       "title": "Creating a Reward",

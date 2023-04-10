@@ -32,7 +32,8 @@ export default {
           "routeBasePath": "/"
         },
         "blog": {
-          "showReadingTime": true
+          "showReadingTime": true,
+          "routeBasePath": "/changelog"
         },
         "theme": {
           "customCss": "D:\\Github\\temp\\peepostream.github.io\\src\\css\\custom.css"
@@ -48,6 +49,11 @@ export default {
         "src": "https://cdn.7tv.app/emote/60ef410f48cde2fcc3eb5caa/1x.webp"
       },
       "items": [
+        {
+          "href": "/changelog",
+          "label": "Changelog",
+          "position": "left"
+        },
         {
           "href": "https://peepostream.com/",
           "label": "peepoStream",
@@ -71,8 +77,16 @@ export default {
               "to": "/setup"
             },
             {
+              "label": "Extension",
+              "to": "/extension"
+            },
+            {
               "label": "Rewards",
               "to": "/rewards"
+            },
+            {
+              "label": "Other FAQ",
+              "to": "/FAQ"
             }
           ]
         },

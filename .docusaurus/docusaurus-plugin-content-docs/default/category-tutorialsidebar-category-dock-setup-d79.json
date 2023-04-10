@@ -1,15 +1,15 @@
 {
   "title": "Dock Setup",
-  "description": "Setup instructions for Channel Point controlled TTS and actions.",
+  "description": "(Optional) Setup instructions for Dock to help control TTS.",
   "slug": "/setup/dock",
   "permalink": "/setup/dock",
   "navigation": {
     "previous": {
-      "title": "Software Setup",
-      "permalink": "/setup"
+      "title": "Browser Source",
+      "permalink": "/setup/browser"
     },
     "next": {
-      "title": "OBS",
+      "title": "OBS Dock",
       "permalink": "/setup/dock/obs"
     }
   }

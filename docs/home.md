@@ -9,4 +9,10 @@ sidebar_position: 1
 Your one-stop shop for all things peepoStream!  
 This documentation contains information about the setup, moderation, and configuration of peepoStream. It also includes some tips and tools to elevate your experience.
 
+<div style={{textAlign: 'center'}}>
+
+![peepoStream Panel](@site/static/img/Panel_Green.png)
+
+</div>
+
 If you can't find what you're looking for, or you have ideas or suggestions for this documentation, let us know in our [Discord](https://discord.gg/peepostream)!

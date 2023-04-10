@@ -18,11 +18,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Streamlabs Dock",
-    "permalink": "/setup/dock/streamlabs"
+    "title": "TTS Command",
+    "permalink": "/setup/chat/command"
   },
   "next": {
-    "title": "Other Software",
-    "permalink": "/setup/dock/other"
+    "title": "TTS Everything",
+    "permalink": "/setup/chat/TTSE"
   }
 }

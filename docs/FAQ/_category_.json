@@ -1,8 +1,8 @@
 {
-  "label": "Config",
+  "label": "FAQ",
   "position": 4,
   "link": {
     "type": "generated-index",
-    "slug":"/config"
+    "slug":"/FAQ"
   }
 }

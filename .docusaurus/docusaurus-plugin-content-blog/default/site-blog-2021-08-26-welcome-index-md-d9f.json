@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/welcome",
+  "permalink": "/changelog/welcome",
   "source": "@site/blog/2021-08-26-welcome/index.md",
   "title": "Welcome",
   "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -8,15 +8,15 @@
   "tags": [
     {
       "label": "facebook",
-      "permalink": "/blog/tags/facebook"
+      "permalink": "/changelog/tags/facebook"
     },
     {
       "label": "hello",
-      "permalink": "/blog/tags/hello"
+      "permalink": "/changelog/tags/hello"
     },
     {
       "label": "docusaurus",
-      "permalink": "/blog/tags/docusaurus"
+      "permalink": "/changelog/tags/docusaurus"
     }
   ],
   "readingTime": 0.405,
@@ -52,6 +52,6 @@
   },
   "nextItem": {
     "title": "MDX Blog Post",
-    "permalink": "/blog/mdx-blog-post"
+    "permalink": "/changelog/mdx-blog-post"
   }
 }

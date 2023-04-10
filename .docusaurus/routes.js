@@ -38,63 +38,23 @@ export default [
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'c95'),
+    path: '/changelog',
+    component: ComponentCreator('/changelog', '846'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', 'f43'),
+    path: '/changelog/0-1-1',
+    component: ComponentCreator('/changelog/0-1-1', '3cb'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', 'fd6'),
-    exact: true
-  },
-  {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', 'fd2'),
-    exact: true
-  },
-  {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'd2b'),
-    exact: true
-  },
-  {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '681'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', 'fa9'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '7f4'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '404'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', 'b6e'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'df3'),
+    path: '/changelog/archive',
+    component: ComponentCreator('/changelog/archive', '393'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'b77'),
+    component: ComponentCreator('/', '877'),
     routes: [
       {
         path: '/',
@@ -121,44 +81,44 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/config',
-        component: ComponentCreator('/config', '7b3'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/config/commands',
-        component: ComponentCreator('/config/commands', 'f7d'),
+        component: ComponentCreator('/config/commands', '0a8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/config/moderation',
-        component: ComponentCreator('/config/moderation', '5eb'),
+        component: ComponentCreator('/config/moderation', 'a9b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/rewards',
-        component: ComponentCreator('/rewards', 'af4'),
+        path: '/extension',
+        component: ComponentCreator('/extension', 'e3f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/rewards/actions',
-        component: ComponentCreator('/rewards/actions', '9d4'),
+        path: '/extension/install',
+        component: ComponentCreator('/extension/install', 'be1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/rewards/create',
-        component: ComponentCreator('/rewards/create', '7d3'),
+        path: '/extension/payouts',
+        component: ComponentCreator('/extension/payouts', '615'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/rewards/tts',
-        component: ComponentCreator('/rewards/tts', '236'),
+        path: '/extension/rewards',
+        component: ComponentCreator('/extension/rewards', '109'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/FAQ',
+        component: ComponentCreator('/FAQ', '608'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -169,56 +129,32 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/setup/chat',
-        component: ComponentCreator('/setup/chat', '09c'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/setup/chat/command',
-        component: ComponentCreator('/setup/chat/command', 'd01'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/setup/chat/setup',
-        component: ComponentCreator('/setup/chat/setup', '4ae'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/setup/chat/TTSE',
-        component: ComponentCreator('/setup/chat/TTSE', '0f3'),
+        path: '/setup/browser',
+        component: ComponentCreator('/setup/browser', 'f41'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/setup/dock',
-        component: ComponentCreator('/setup/dock', '64a'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/setup/dock/browser-source',
-        component: ComponentCreator('/setup/dock/browser-source', '32e'),
+        component: ComponentCreator('/setup/dock', '1e0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/setup/dock/obs',
-        component: ComponentCreator('/setup/dock/obs', '1cb'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/setup/dock/other',
-        component: ComponentCreator('/setup/dock/other', '10d'),
+        component: ComponentCreator('/setup/dock/obs', '17f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/setup/dock/streamlabs',
-        component: ComponentCreator('/setup/dock/streamlabs', '991'),
+        component: ComponentCreator('/setup/dock/streamlabs', '091'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/setup/other',
+        component: ComponentCreator('/setup/other', '675'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -229,8 +165,32 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/tts',
+        component: ComponentCreator('/tts', '837'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/tts/command',
+        component: ComponentCreator('/tts/command', 'add'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/tts/create',
+        component: ComponentCreator('/tts/create', '34e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/tts/ttse',
+        component: ComponentCreator('/tts/ttse', '7cd'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/Twitch400',
-        component: ComponentCreator('/Twitch400', 'd27'),
+        component: ComponentCreator('/Twitch400', '4de'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
