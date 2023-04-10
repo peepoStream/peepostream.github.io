@@ -13,10 +13,11 @@ The Browser Source and Dock are incompatible with OBS version 27 or prior.
 :::
 
 ### Video Walkthrough
+<div style={{textAlign: 'center'}}>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/o_Ko21KCJu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Or, follow the steps below:
+</div>
 
 ### Open Dock Manager
 

@@ -1,9 +1,0 @@
-{
-  "label": "Chat Features",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "Select the software you would like to setup:",
-    "slug":"/setup/chat"
-  }
-}

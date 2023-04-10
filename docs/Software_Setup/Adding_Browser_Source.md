@@ -1,7 +1,7 @@
 ---
-sidebar_position: 3
-slug: /setup/dock/browser-source
-description: Using peepoStream as a browser source
+sidebar_position: 1
+slug: /setup/browser
+description: Using peepoStream's browser source
 ---
 
 # Browser Source
@@ -10,15 +10,27 @@ description: Using peepoStream as a browser source
 
 1. Add a new browser source to your streaming software.  
 
-2. In the URL box, point the browser source to the Dock URL
+2. In the URL box, point the browser source to the following URL:
 
    ```text
-   https://peepostream.com/obs/dock
+   https://peepostream.com/obs/browser
    ```
 
-4. Click save, then right-click on the browser source and click "Interact". A window will pop up where you can interact with the browser source. Use this window to sign in.
+<div style={{textAlign: 'center'}}>
 
-5. Drag the browser source out of view to hide it, but don't disable it in your source list.
+![Browser source properties with the URL filled in](@site/static/img/Browser_Source_Config.png)
+
+</div>
+
+4. Click ok.
+
+5. Right-click on the browser source and click "Interact". A window will pop up where you can interact with the browser source. Use this window to sign in.
+
+<div style={{textAlign: 'center'}}>
+
+![Interact in the Menu](@site/static/img/Interact_Menu.png)
+
+</div>
 
 ---
 
@@ -26,9 +38,12 @@ description: Using peepoStream as a browser source
 
 There are three methods to control the audio levels while using a browser source, listed in order of recommendation:
 
-1. [Chat Commands](#chat-commands)
-2. [Interacting with the Source](#interacting-with-the-source)
+1. [peepoStream Dock](/setup/dock/)
+2. [Chat Commands](#chat-commands)
 3. [Controlling via Streaming software](#controlling-via-streaming-software) *(advanced)*
+
+### peepoStream Dock
+Please see the [dock setup article](/setup/dock) for more information.
 
 ### Chat Commands
 

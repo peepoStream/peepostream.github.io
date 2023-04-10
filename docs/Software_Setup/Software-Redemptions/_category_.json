@@ -1,9 +1,0 @@
-{
-  "label": "Reward Source",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "Setup instructions for Channel Point controlled TTS. You only need 1 option setup for it to work",
-    "slug":"/setup/dock"
-  }
-}

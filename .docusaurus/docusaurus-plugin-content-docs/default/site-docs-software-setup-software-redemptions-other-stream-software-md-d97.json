@@ -18,11 +18,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Browser Source",
-    "permalink": "/setup/dock/browser-source"
+    "title": "TTS Everything",
+    "permalink": "/setup/chat/TTSE"
   },
   "next": {
-    "title": "Chat Features",
-    "permalink": "/setup/chat"
+    "title": "Stream Deck",
+    "permalink": "/setup/streamdeck"
   }
 }

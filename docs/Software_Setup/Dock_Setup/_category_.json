@@ -1,0 +1,9 @@
+{
+  "label": "Dock Setup",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "(Optional) Setup instructions for Dock to help control TTS.",
+    "slug":"/setup/dock"
+  }
+}

@@ -35,7 +35,7 @@ We’re sorry peepoStream didn’t meet your needs! To help us improve peepoStre
 :::info All plans include:
 
 - Channel Rewards
-- Extension Access
+- Unlimited Extension Usage
 - Live Support
 :::
 

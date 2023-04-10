@@ -41,6 +41,7 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          routeBasePath: '/changelog',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
@@ -61,7 +62,11 @@ const config = {
           src: 'https://cdn.7tv.app/emote/60ef410f48cde2fcc3eb5caa/1x.webp',
         },
         items: [
-          
+          {
+            href: '/changelog',
+            label: 'Changelog',
+            position: 'left',
+          },
           // {to: '/blog', label: 'updates', position: 'left'},
           {
             href: 'https://peepostream.com/',
@@ -85,8 +90,16 @@ const config = {
                 to: '/setup',
               },
               {
+                label: 'Extension',
+                to: '/extension',
+              },
+              {
                 label: 'Rewards',
                 to: '/rewards',
+              },
+              {
+                label: 'Other FAQ',
+                to: '/FAQ',
               },
             ],
           },

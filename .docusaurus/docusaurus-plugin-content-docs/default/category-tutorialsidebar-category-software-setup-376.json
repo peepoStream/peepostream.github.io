@@ -1,6 +1,6 @@
 {
   "title": "Software Setup",
-  "description": "There are two browser sources peepoStream uses, depending on your TTS type",
+  "description": "The Browser Source or Dock is required for alerts to play.",
   "slug": "/setup",
   "permalink": "/setup",
   "navigation": {
@@ -9,8 +9,8 @@
       "permalink": "/account/permissions"
     },
     "next": {
-      "title": "Reward Source",
-      "permalink": "/setup/dock"
+      "title": "Browser Source",
+      "permalink": "/setup/browser"
     }
   }
 }

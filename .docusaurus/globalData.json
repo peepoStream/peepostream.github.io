@@ -21,17 +21,32 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Config/400",
+              "id": "Extension/Extension_Install",
+              "path": "/extension/install",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Extension/Extension_Payouts",
+              "path": "/extension/payouts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Extension/Extension_Rewards",
+              "path": "/extension/rewards",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "FAQ/400",
               "path": "/Twitch400",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Config/Automod",
+              "id": "FAQ/Automod",
               "path": "/config/moderation",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Config/Chat_Commands",
+              "id": "FAQ/Chat_Commands",
               "path": "/config/commands",
               "sidebar": "tutorialSidebar"
             },
@@ -41,58 +56,43 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Rewards/Creating_Reward",
-              "path": "/rewards/create",
+              "id": "Software_Setup/Adding_Browser_Source",
+              "path": "/setup/browser",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Rewards/Mod_Actions",
-              "path": "/rewards/actions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Rewards/TTS_Rewards",
-              "path": "/rewards/tts",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Software_Setup/Software-Redemptions/Adding_Browser_Source",
-              "path": "/setup/dock/browser-source",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Software_Setup/Software-Redemptions/OBS_Setup",
+              "id": "Software_Setup/Dock_Setup/OBS_Setup",
               "path": "/setup/dock/obs",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Software_Setup/Software-Redemptions/Other_Stream_Software",
-              "path": "/setup/dock/other",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Software_Setup/Software-Redemptions/Streamlabs_Desktop_Setup",
+              "id": "Software_Setup/Dock_Setup/Streamlabs_Desktop_Setup",
               "path": "/setup/dock/streamlabs",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Software_Setup/Software-TTS/Chat_Featues_Setup",
-              "path": "/setup/chat/setup",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Software_Setup/Software-TTS/TTS_Command",
-              "path": "/setup/chat/command",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Software_Setup/Software-TTS/TTS_Everything",
-              "path": "/setup/chat/TTSE",
+              "id": "Software_Setup/Other_Stream_Software",
+              "path": "/setup/other",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Software_Setup/Streamdeck_Setup",
               "path": "/setup/streamdeck",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TTS/Creating_Reward",
+              "path": "/tts/create",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TTS/TTS_Command",
+              "path": "/tts/command",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TTS/TTS_Everything",
+              "path": "/tts/ttse",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -111,18 +111,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/setup/chat",
-              "path": "/setup/chat",
+              "id": "/extension",
+              "path": "/extension",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/rewards",
-              "path": "/rewards",
+              "id": "/tts",
+              "path": "/tts",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/config",
-              "path": "/config",
+              "id": "/FAQ",
+              "path": "/FAQ",
               "sidebar": "tutorialSidebar"
             }
           ],
