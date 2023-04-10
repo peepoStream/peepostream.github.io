@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpeepostream_github_io=self.webpackChunkpeepostream_github_io||[]).push([[250],{7907:e=>{e.exports=JSON.parse('{"title":"Config","slug":"/config","permalink":"/config","navigation":{"previous":{"title":"Mod Actions","permalink":"/rewards/actions"},"next":{"title":"Moderation","permalink":"/config/moderation"}}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpeepostream_github_io=self.webpackChunkpeepostream_github_io||[]).push([[301],{7716:e=>{e.exports=JSON.parse('{"title":"TTS","slug":"/tts","permalink":"/tts","navigation":{"previous":{"title":"Payouts","permalink":"/extension/payouts"},"next":{"title":"Creating a Reward","permalink":"/tts/create"}}}')}}]);

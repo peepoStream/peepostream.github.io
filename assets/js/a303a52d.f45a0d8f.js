@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpeepostream_github_io=self.webpackChunkpeepostream_github_io||[]).push([[9523],{4277:e=>{e.exports=JSON.parse('{"title":"Rewards","slug":"/rewards","permalink":"/rewards","navigation":{"previous":{"title":"Stream Deck","permalink":"/setup/streamdeck"},"next":{"title":"Creating a Reward","permalink":"/rewards/create"}}}')}}]);
