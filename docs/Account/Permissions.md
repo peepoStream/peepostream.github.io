@@ -16,11 +16,11 @@ The peepoStream bot requires the Moderator role to ensure it can access all the 
 
 ### Grant or remove the VIP role from users in your channel
 
-This permission is used for VIP-related mod actions. Without creating any [Mod Action](/rewards/actions) rewards this permission will not be used.
+This permission is used for VIP-related mod actions. 
 
 ### Manage Channel Points custom rewards and their redemptions on your channel
 
-Used to manage [Channel Point Rewards](https://dashboard.twitch.tv/viewer-rewards/channel-points/rewards) automatically when you create, edit, or delete [TTS](/rewards/tts) or [Mod Action](/rewards/actions) rewards created in our dashboard.
+Used to manage [Channel Point Rewards](https://dashboard.twitch.tv/viewer-rewards/channel-points/rewards) automatically when you create, edit, or delete [TTS](/tts/browser) rewards created in our dashboard.
 
 ### Get a list of all subscribers to your channel and check if a user is subscribed to your channel
 
@@ -48,7 +48,7 @@ This is a necessary permission for the upcoming extension.
 
 ### Ban or unban users in channels where you have the moderator role
 
-Twitch includes this in the scope "channel:moderate", which is required to perform any moderation actions in your channel. We do not make any moderation actions in any channel but your own, and only if you have the [Timeout Mod Action](/rewards/actions/#ban--timeout) setup.
+Twitch includes this in the scope "channel:moderate", which is required to perform any moderation actions in your channel. We do not make any moderation actions in any channel but your own, and only if you have the Timeout Mod Action setup.
 
 ## Revoking Permissions
 
