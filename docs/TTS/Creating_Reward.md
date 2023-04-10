@@ -7,12 +7,12 @@ description: Setting up rewards in peepoStream
 # Creating a Reward
 
 :::caution
-For TTS rewards to play you need to setup the [Browser Source](/setup/browser).
+For TTS rewards to play you need to set up the [Browser Source](/setup/browser).
 :::
 
 ## Create the Reward
 peepoStream will configure your rewards automatically when you create them on the Dashboard. To add a reward:
-1. Open the [TTS Dashboard](https://dev.peepo.gg/tts) and find the voice you want to use. Click on it, then click "+ Add" in the popup that appears.
+1. Open the [TTS Dashboard](https://peepostream.com/tts) and find the voice you want to use. Click on it, then click "+ Add" in the popup that appears.
 2. Required settings will be filled in automatically, and can be tweaked to your liking.
 3. Click the green "Save" button to publish your reward!
 
@@ -37,7 +37,7 @@ See the diagram below to see how each of the configuration options corresponds t
 
 ### Description
 
-**Optional.** Flavor text shown under the reward when selected on Twitch.
+**Optional.** The flavor text shown under the reward when selected on Twitch.
 
 ### Global Cooldown Time
 
@@ -53,7 +53,7 @@ See the diagram below to see how each of the configuration options corresponds t
 
 ### Background Color
 
-**Optional.** The color shown behind the reward icon or image. Click the input box to bring up a color picker.
+**Optional.** The color behind the reward icon. Click the input box to bring up a color picker.
 
 ### Skip Queue
 
@@ -65,7 +65,7 @@ If skip queue is enabled, you will not be able to refund channel points for TTS 
 
 ### Show Alert
 
-Displays the TTS message and requesters name on the browser source Overlay. Off by default.
+Displays the TTS message and requester's name on the browser source Overlay. Off by default.
 
 ---
 

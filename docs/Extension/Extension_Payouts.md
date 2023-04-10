@@ -7,7 +7,7 @@ description: Pending Approval
 # Payouts
 
 ## Payment Split
-Revenue from bits spent inside a Twitch Extension are split between the the extension developer (us) and the streamer (you).
+Revenue from bits spent inside a Twitch Extension is split between the extension developer (us) and the streamer (you).
 Streamers receive 80% of each bit payment and the developer receives 20%. This is set by Twitch and cannot be changed.
 
 ## How do I get paid?
