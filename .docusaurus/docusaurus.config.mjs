@@ -45,8 +45,8 @@ export default {
     "navbar": {
       "title": "peepoDocs",
       "logo": {
-        "alt": "peepoChatting",
-        "src": "https://cdn.7tv.app/emote/60ef410f48cde2fcc3eb5caa/1x.webp"
+        "alt": "peepoG",
+        "src": "https://cdn.7tv.app/emote/611a4aac62a016377dd91a25/4x.webp"
       },
       "items": [
         {
@@ -100,6 +100,10 @@ export default {
             {
               "label": "Twitter",
               "href": "https://twitter.com/peepoStream"
+            },
+            {
+              "label": "TikTok",
+              "href": "https://www.tiktok.com/@peepostream"
             }
           ]
         },
