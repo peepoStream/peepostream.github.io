@@ -13,9 +13,9 @@
           "tagsPath": "/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "D:\\Github\\temp\\peepostream.github.io\\sidebars.js",
-          "contentPath": "D:\\Github\\temp\\peepostream.github.io\\docs",
-          "contentPathLocalized": "D:\\Github\\temp\\peepostream.github.io\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "D:\\Peepostream\\docs\\peepostream.github.io\\sidebars.js",
+          "contentPath": "D:\\Peepostream\\docs\\peepostream.github.io\\docs",
+          "contentPathLocalized": "D:\\Peepostream\\docs\\peepostream.github.io\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "Account/Billing",

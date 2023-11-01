@@ -13,6 +13,7 @@ export default {
   "tagline": "",
   "organizationName": "peepoStream",
   "projectName": "peepostream.github.io",
+  "deploymentBranch": "main",
   "trailingSlash": false,
   "i18n": {
     "defaultLocale": "en",
@@ -27,7 +28,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "D:\\Github\\temp\\peepostream.github.io\\sidebars.js",
+          "sidebarPath": "D:\\Peepostream\\docs\\peepostream.github.io\\sidebars.js",
           "sidebarCollapsible": true,
           "routeBasePath": "/"
         },
@@ -36,7 +37,7 @@ export default {
           "routeBasePath": "/changelog"
         },
         "theme": {
-          "customCss": "D:\\Github\\temp\\peepostream.github.io\\src\\css\\custom.css"
+          "customCss": "D:\\Peepostream\\docs\\peepostream.github.io\\src\\css\\custom.css"
         }
       }
     ]
@@ -100,6 +101,10 @@ export default {
             {
               "label": "Twitter",
               "href": "https://twitter.com/peepoStream"
+            },
+            {
+              "label": "TikTok",
+              "href": "https://www.tiktok.com/@peepostream"
             }
           ]
         },
